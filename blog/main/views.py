@@ -17,3 +17,4 @@ def about(request):
     Render the about page
     '''
     return render(request, 'main/about.html')
+
